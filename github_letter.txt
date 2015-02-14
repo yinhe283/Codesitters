@@ -1,0 +1,12 @@
+Hey!
+
+I heard you are taking a coding class, and I have been trying to learn on my own. Today after spending 10 hours figuring out how to build this one feature, I finally got it to work!
+
+But... then I tried adding a new feature, and it  broke my code!
+
+In the beginning I was really good about backing up my files, but it became too cumbersome after a while. I wish there was a better, less tedious, and faster way of keeping track of all the versions of my code!
+
+Now that you are my most knowledgeable coding friend, can you suggest anything to help me?
+
+Thanks so much!
+Dalia
